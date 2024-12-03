@@ -1,0 +1,386 @@
+.navbar{
+    height: 60px;
+    display: flex;
+    background-color: rgb(19, 25, 33) ;
+width: 100%;
+justify-content: space-evenly;
+align-items: center;
+}
+.amazon{
+    
+    color: white;
+     text-shadow: rgb(198, 154, 72);
+      
+      font-size:30px ;
+
+
+}
+#location{
+   display: flex; 
+   justify-content: space-between
+
+}
+.locationlogo{
+    color:white;
+
+}
+.locationlogo img{
+  height: 30px;
+     
+
+}
+.location{
+    color: white; 
+    
+}
+.boxone{
+    display: flex; 
+    align-items: center;
+      justify-content:center;
+      width: 600px; 
+      border: 2px rgb(240, 232, 232); 
+      border-radius: 5px;
+
+}
+.slt{
+    background-color:  rgba(238, 233, 233, 0.57);;
+    width: 50px; 
+    height:35px ;
+     border-radius: 5px 0px 0px 5px;
+
+}
+.input{
+    width:500px; 
+     justify-content: center; 
+     height: 33px;
+
+}
+.imgtwo{
+    height: 35px; 
+ padding-top: 4px;
+  padding-right:40px;
+}
+#language{
+    display: flex; 
+    align-items: center;
+     justify-content: center;
+
+}
+.imgthree img{
+    height: 25px; 
+    width: 25px;
+    
+     
+}
+.selectone select{
+    height: 20px;
+    width: 42px;
+}
+.boxt{
+    color: white;
+
+}
+.return{
+    color: white;}
+
+    .car{
+        display: flex;
+ justify-content: center;
+ align-items: end;
+    
+}
+.cart{
+    display: flex;
+    height: 30px;
+    width: 33px;
+}
+.return{
+    color: white;
+}
+.sp{
+    color: white;
+    
+    
+
+}
+.navsecond{
+    background-color: rgb(35, 47, 62); 
+    height: 40px;
+    justify-content: flex-start;
+    
+    
+
+}
+.navtwocontent{
+    display: flex;
+    
+     align-items: flex-start; 
+     justify-content: space-evenly;
+      padding-top: 10px; 
+     color: white; 
+     list-style: none;
+     
+}
+.container{
+    height: 100%;
+    width: 100%;
+     background-image: linear-gradient( rgb(66, 111, 208), rgb(255, 255, 255), rgb(192, 192, 205))
+     
+}
+
+
+ .pc{
+    display: flex;
+     justify-content: center;
+    align-items: center;
+    color: white;
+    padding-top: 50px;
+    justify-content: space-evenly;
+    font-size: 30px;
+    
+    
+} 
+.mark{
+    color: rgb(247, 203, 0);
+    text-shadow: 3px,5px,3px, 0px rgb(177, 81, 81);
+}
+
+.dct{
+    display: flex;
+    justify-content: space-evenly;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+gap: 30px;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 22px;
+}
+.singleimg{
+    height: 400px;
+    width: 320px;
+    border-radius: 4px;
+    background-color: white;
+    padding-top: 10px;
+padding-left: 16px;
+/* padding-right: 5px; */
+}
+    
+.fourimg{
+padding-top: 10px;
+padding-left: 7px;
+/* padding-right: 5px; */
+    height: 400px;
+width: 320px;
+border-radius: 4px;
+
+background-color: white;
+}
+
+.frimg{
+    padding-top: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.brand{
+    background-color: white;
+}
+.last{
+
+    background-color: white;
+    border: 1px solid black;
+    display: grid;
+     justify-content: center;
+ align-items: center; 
+    width: 100%;
+    height: 200px;
+    
+    
+    
+   
+}
+
+
+
+
+  
+
+#sign{
+    width: 240px;
+    height: 35px;
+    background-color:  rgb(255, 199 ,58);
+    color: black;
+    border-radius: 7px;
+}
+     
+.deals{
+    background-color: rgb(240, 189, 143);
+    height: 380px;
+    /* border: 2px solid black; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.deal{
+    height: 340px;
+    /* border: 1px solid rgb(16, 12, 12);  */
+    width: 230px;
+  border-radius: 5px;
+  background-color: white;
+  padding-left: 8px;
+  margin-left: 6px;
+  
+}
+.off{
+    background-color: rgb(204, 12, 57);
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    color: white;
+   margin-right: 10px;
+}
+.clr{
+    color: darkred;
+    /* margin-top: 6px;/ */
+    margin-left: 10px; 
+}
+
+
+
+
+.at{
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+.ok{
+    background-color: rgba(75 , 87, 105);
+    height: 50px;   
+    width: 100%;
+    color: white;
+}
+.footer{
+    padding-top: 50px;
+    
+    display: flex;
+justify-content: space-evenly;
+
+
+background-color: rgb(35, 47, 62);
+color: white;
+
+width: 100%;
+
+
+
+
+}
+.lastcard{
+    display: grid;
+    color: white;
+    gap: 10px;
+    height: 150px;
+}
+.lastcard a{
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+.lastcard a:hover{
+    text-decoration: underline;
+    display: grid;
+}
+
+
+
+.lastcardtwo{
+    height: 300px;
+    display: grid;
+    text-decoration: none;
+}
+.lastcardtwo a{
+    color: white;
+    text-decoration: none;}
+
+    .lastcardtwo a:hover{
+        text-decoration: underline;
+        display: grid;}
+.open{
+    display: flex;
+    background-color: rgb( 35, 47 , 62);
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    gap: 30px;
+    color: whitesmoke;
+    border-top: 2px solid black;
+}
+.text{
+    font-size: 40px;
+}
+.hin{
+    border: 1px solid rgb(86, 78, 78);
+  height: 30px;
+    background: none ;
+    padding-top: 10px;
+    padding-left: 13px;
+    width: 90px;
+}
+.in{
+    font-size: 15px;
+    
+    color: white;
+    border: 1px solid rgb(86,78,78);
+    height: 30px;
+    width: 55px;
+    padding-top: 10px;
+    padding-left: 13px;
+    width: 60px;
+}
+
+.lastdiv{
+   
+
+    
+    background-color: rgb( 19, 26, 34);
+    color: white;
+   height: 225px;
+   padding: 1rem 3rem ;
+   
+   
+
+
+
+}
+
+.lastone{
+
+font-size: 0.9rem;
+}
+.inside{
+    margin: 3rem 20rem;
+    
+    display: grid;
+    
+    gap: 3rem;
+    
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-template-rows: 1fr 1fr ;
+}
+
+#close{
+    background-color: rgb( 19,26,34);
+    color: white;
+    text-align: center;
+}
